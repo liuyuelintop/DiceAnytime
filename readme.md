@@ -3,10 +3,10 @@
 
 ###  Reasons to choose DiceAnytime
 <div align='center'>
-<img src=https://tva1.sinaimg.cn/large/008vxvgGgy1h7r0nd06qqj31hb0u0q5u.jpg width='300'>&emsp; 
-<img src=https://tva1.sinaimg.cn/large/008vxvgGgy1h7r0nbkthcj31hs0u0q5s.jpg width='300'>&emsp; 
-<img src=https://tva1.sinaimg.cn/large/008vxvgGgy1h7r0mgxvi6j31h70u0dla.jpg width='300'>&emsp;
-<img src=https://tva1.sinaimg.cn/large/008vxvgGgy1h7r0vli3euj31h70u0whr.jpg width="300">&emsp;
+<img src=https://tva1.sinaimg.cn/large/008vxvgGgy1h7r0nd06qqj31hb0u0q5u.jpg width='400'>&emsp; 
+<img src=https://tva1.sinaimg.cn/large/008vxvgGgy1h7r0nbkthcj31hs0u0q5s.jpg width='400'>&emsp; 
+<img src=https://tva1.sinaimg.cn/large/008vxvgGgy1h7r0mgxvi6j31h70u0dla.jpg width='400'>&emsp;
+<img src=https://tva1.sinaimg.cn/large/008vxvgGgy1h7r0vli3euj31h70u0whr.jpg width="400">&emsp;
 </div><br> 
 
 ### This repository integrates all functionalities that we have built by far.   
