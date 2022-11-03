@@ -18,8 +18,7 @@
     - temperature: monitor the temperature of the phone so that the app could notify users to have a rest when users use their phone for a long time
 
 ### How to run
-- The latest version of our application is at branch Oct27
-`git clone git@github.com:COMP90018-team/DiceLogin.git`, Then `git switch Oct27 `
+- `git@github.com:liuyuelintop/DiceAnytime.git`
 - Import the project into Android Studio: In the "Projects" page, click the "Open" button to find the directory "DiceLogin", and double click it.
 - Wait for Android Studio to recognize the existing application and build it with Gradle. 
 - After the preparation work, you can run the project by clicking the "Run" button to Run app.
