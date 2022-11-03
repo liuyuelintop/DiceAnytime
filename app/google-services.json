@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "286733707658",
+    "project_id": "dice-52822",
+    "storage_bucket": "dice-52822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286733707658:android:b012be9eca3580baabc073",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286733707658-af4dedbfjg4jlsbiefa0cnh4jk2dmlf2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWjSvZvnXrWvRjljcMbDOAZbqca1aE_CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286733707658-af4dedbfjg4jlsbiefa0cnh4jk2dmlf2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
